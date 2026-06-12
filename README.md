@@ -1,2 +1,4 @@
 # apnacollege-demo-1
-this is may first Repository
+This is may first Repository
+<br>
+Auther Tanvir shaikh
